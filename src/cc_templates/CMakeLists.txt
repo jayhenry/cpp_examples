@@ -1,0 +1,2 @@
+
+add_executable(cc_variadic_class_template cc_variadic_class_template.cpp)
